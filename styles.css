@@ -2,6 +2,10 @@ body{
 	background-color:pink;
 
 }
+main{
+	display:flex;
+	
+}
 nav{
 	justify-content:center;
 	gap:10px ;
